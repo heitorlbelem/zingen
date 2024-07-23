@@ -36,6 +36,12 @@
   --stroke-color: #27272a;
   --text-color-primary: #f4f4f5;
   --text-color-secondary: #a1a1aa;
+
+  --px-lg: 2.4rem;
+
+  --py-base: 1.6rem;
+  --py-lg: 2.4rem;
+  --py-xl: 4.8rem;
 }
 
 html {
@@ -83,5 +89,11 @@ ul[role="list"] {
     --fs-lg: 3.2rem;
     --fs-xl: 4.8rem;
     --fs-xxl: 6.4rem;
+
+    --px-lg: 3.2rem;
+
+    --py-base: 2.4rem;
+    --py-lg: 4rem;
+    --py-xl: 8rem;
   }
 }

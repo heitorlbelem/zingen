@@ -25,8 +25,20 @@
   display: none;
 }
 
-.even-columns {
+.evenly-columns {
   display: grid;
+  gap: 1.6rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.gap-16 {
   gap: 1.6rem;
 }
 

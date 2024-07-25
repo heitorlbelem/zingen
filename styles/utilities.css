@@ -34,12 +34,20 @@
   display: flex;
 }
 
+.items-center {
+  align-items: center;
+}
+
 .grid {
   display: grid;
 }
 
 .gap-16 {
   gap: 1.6rem;
+}
+
+.gap-24 {
+  gap: 2.4rem;
 }
 
 @media (width >= 80em) {
